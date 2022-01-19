@@ -1,7 +1,7 @@
 {
   "name": "virtual-pet",
   "version": "1.0.0",
-  "description": "MCR exercise",
+  "description": "MCR exercise - A virtual pet made with TDD ",
   "main": "index.js",
   "dependencies": {
     "jest": "^27.4.4"
